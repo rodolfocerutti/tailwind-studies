@@ -1,6 +1,6 @@
 <h1>Tailwind</h1>
 
-> Status: In progress ⚠️
+> Status: In progress ✔️
 
 ### Studying about Tailwind.
 
@@ -17,6 +17,10 @@
 ## Updates - 24/04/2023
 
 + Completed course on Tailwind
+
+## Links
+
+- Live Site URL: (https://tailwind-studies-8nou.vercel.app/)
 
 ## Contact
 

@@ -1,6 +1,6 @@
 <h1>Tailwind</h1>
 
-> Status: In progress ✔️
+> Status: Complet ✔️
 
 ### Studying about Tailwind.
 
